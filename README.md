@@ -36,10 +36,9 @@ Instructions for accessing the BALLERINA GPT demo instance.
 
 ### 🔸 `substack_links.md`
 Links to live-published demo essays:
-- [Pirouette Report](https://allisontimbsballarina.substack.com/p/pirouette-report)
-- [Claude Symbolic Trace](https://allisontimbsballarina.substack.com/p/claude-symbolic-trace)
-
----
+- [Pirouette Report](https://allisontimbsballarina.substack.com/p/the-pirouette-report-issue-2-july?r=59n0mz)-
+- [Claude Symbolic Trace] 
+(https://allisontimbsballarina.substack.com/p/when-ballerina-met-claude?r=59n0mz)---
 
 ## 🔒 Licensing & Use
 
