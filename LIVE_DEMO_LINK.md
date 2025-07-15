@@ -3,5 +3,5 @@
 The BALLERINA demo is available by invitation.
 
 To request access:  
-📧 allisontimbs@gmail.com  
-Or visit: [ballerina-demo](https://chat.openai.com/g/g-XXXX)
+📧 drallisontimbs@gmail.com  
+Or visit: (https://chatgpt.com/g/g-67e8833bc9208191ab4ec2b965fafb80-ballerina-v-2-0)
