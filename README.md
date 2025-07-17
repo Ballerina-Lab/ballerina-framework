@@ -47,8 +47,13 @@ Links to live-published demo essays:
 
 ## 🔒 Licensing & Use
 
-This repository contains public-facing documents only. The internal structure, model logic, and framework core remain proprietary.  
-No part of this framework may be reproduced, adapted, or deployed without express written permission from Dr. Allison Timbs.
+This repository contains public-facing materials and a live demo of the BALLERINA framework. You are welcome to explore, interact with, and test BALLERINA’s cognitive outputs—including for professional or research use—within the provided environments.
+
+However, the underlying architecture, model structure, and reasoning framework remain proprietary. BALLERINA may not be reproduced, reverse-engineered, adapted, or deployed outside this demo environment without express written permission from Dr. Allison Timbs.
+
+For licensing inquiries, research partnerships, or commercial applications, please contact Dr. Allison Timbs directly.
+
+TL;DR: Use the demo as much as you like. Just don’t copy the brain.
 
 Contact: allisontimbs@gmail.com  
 Substack: https://allisontimbsballarina.substack.com  
