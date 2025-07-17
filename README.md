@@ -27,6 +27,11 @@ A live symbolic reasoning session generated from minimal input, demonstrating BA
 ### 🔹 `portfolio_paper_draft.pdf` *(coming soon)*
 A strategic deployment and positioning document focused on real-world application, licensing, and system integration opportunities.
 
+## External Papers Referenced
+
+- [Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety](https://tomekkorbak.com/cot-monitorability-is-a-fragile-opportunity/cot_monitoring.pdf)  
+  Authors: Korbak, Balesni, Barnes, et al. (2025)
+
 ---
 
 ## 🔗 External Links
