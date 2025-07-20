@@ -29,7 +29,7 @@ This repository contains the public-facing documentation, sample outputs, and th
 - 🔹 [cognitive_convergence.pdf](./cognitive_convergence.pdf)  
   Theoretical paper outlining the interdisciplinary foundations of BALLERINA—grounded in predictive coding, Bayesian reasoning, social learning theory, Symbolic Interactionism, and Techniques of Neutralization.
 
-- 🔹 [ballerina_portfolio_v1.pdf](./ballerina_portfolio_v1.pdf)  
+- 🔹 [ballerina_portfolio_v1.pdf](./ballerina_portfolio_v1.pdf)  Coming soon!
   Internal-use artifact documenting BALLERINA’s live deployments, strategic application areas, licensing tiers, and toolchain maturity. Designed for collaborators, labs, and research groups evaluating structured reasoning frameworks.
 
 ### 🧪 Demos + Applied Reasoning
