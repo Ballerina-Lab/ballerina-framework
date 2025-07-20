@@ -32,7 +32,7 @@ A strategic deployment and positioning document focused on real-world applicatio
 - [Chain of Thought Monitorability: A New and Fragile Opportunity for AI Safety](https://tomekkorbak.com/cot-monitorability-is-a-fragile-opportunity/cot_monitoring.pdf)  
   Authors: Korbak, Balesni, Barnes, et al. (2025)
 
----
+##  SYMBIOSPIN is a demo project showing BALLERINA’s ability to generate coherent, high-level biomedical R&D reasoning without domain-specific training.---
 
 ## 🔗 External Links
 
