@@ -75,7 +75,7 @@ However, the underlying architecture, model structure, and reasoning framework r
 
 **Dr. Allison Timbs**  
 Criminologist | Symbolic Systems Analyst | Creator of BALLERINA  
-Email: allisontimbs@gmail.com  
+Email: drallisontimbs@gmail.com  
 Substack: https://allisontimbsballarina.substack.com  
 LinkedIn: https://www.linkedin.com/in/allison-timbs
 
